@@ -1,0 +1,90 @@
+.count_h1{
+  position: absolute;
+  left: 40%;
+  top: 10%;
+}
+.count_input{
+  position: absolute;
+  top: 18%;
+  left: 43%;
+  width: 10%;
+}
+.count_btn{
+  position: absolute;
+  top: 25%;
+  left:41%;
+}
+.count_h2{
+  position: absolute;
+  top: 18%;
+  left: 54%;
+}
+  
+
+
+.user_h1{
+  position: absolute;
+  top: 41%;
+  left:11%;
+}
+.user_input{
+  position: absolute;
+  top: 50%;
+  left: 11%;
+  width:10%
+}
+.user_btn{
+  position: absolute;
+  top: 50%;
+  left: 21%;
+}
+.count_ul{
+  position: absolute;
+  top: 57%;
+  left:11%;
+}
+
+.user_search{
+  position: absolute;
+  top:41%;
+  right:11%;
+}
+.user_ul2{
+  position: absolute;
+  top: 51%;
+  right:25%
+}
+@media screen and (max-width:768px){
+
+.count_h1{
+  left:5%
+}
+.count_input{
+  left:8%;
+  width: 23%;
+}
+.count_h2{
+  left:21%;
+}
+.count_btn{
+  left:6%
+}
+.user_input{
+  left:11%;
+  width: 28%;
+}
+.user_btn{
+  left:39%;
+
+}
+.user_search{
+  top:57%;
+  left:69%
+}
+.user_ul2{
+  top:69%;
+  left:70%;
+}
+
+
+}
